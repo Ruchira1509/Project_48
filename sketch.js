@@ -584,7 +584,7 @@ if(player.isTouching(division1)){
 
 
 
-  if(candy1.isTouching(division1)||candy2.isTouching(division1)||candy3.isTouching(division1)||candy4.isTouching(division1)||candy5.isTouching(division1)||candy6.isTouching(division1)||candy7.isTouching(division1)||candy8.isTouching(division1)){
+  if(candy1.isTouching(division1)||candy2.isTouching(division1)||candy3.isTouching(division1)||candy4.isTouching(division1)||candy5.isTouching(division1)||candy6.isTouching(division1)||candy7.isTouching(division1)||candy8.isTouching(division1)||healthy1.isTouching(division1)||healthy2.isTouching(division1)||healthy3.isTouching(division1)||healthy4.isTouching(division1)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -602,7 +602,7 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
-  if(candy1.isTouching(division2)||candy2.isTouching(division2)||candy3.isTouching(division2)||candy4.isTouching(division2)||candy5.isTouching(division2)||candy6.isTouching(division2)||candy7.isTouching(division2)||candy8.isTouching(division2)){
+  if(candy1.isTouching(division2)||candy2.isTouching(division2)||candy3.isTouching(division2)||candy4.isTouching(division2)||candy5.isTouching(division2)||candy6.isTouching(division2)||candy7.isTouching(division2)||candy8.isTouching(division2)||healthy1.isTouching(division2)||healthy2.isTouching(division2)||healthy3.isTouching(division2)||healthy4.isTouching(division2)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -620,7 +620,7 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
-  if(candy1.isTouching(division3)||candy2.isTouching(division3)||candy3.isTouching(division3)||candy4.isTouching(division3)||candy5.isTouching(division3)||candy6.isTouching(division3)||candy7.isTouching(division3)||candy8.isTouching(division3)){
+  if(candy1.isTouching(division3)||candy2.isTouching(division3)||candy3.isTouching(division3)||candy4.isTouching(division3)||candy5.isTouching(division3)||candy6.isTouching(division3)||candy7.isTouching(division3)||candy8.isTouching(division3)||healthy1.isTouching(division3)||healthy2.isTouching(division3)||healthy3.isTouching(division3)||healthy4.isTouching(division3)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -638,7 +638,7 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
-  if(candy1.isTouching(division4)||candy2.isTouching(division4)||candy3.isTouching(division4)||candy4.isTouching(division4)||candy5.isTouching(division4)||candy6.isTouching(division4)||candy7.isTouching(division4)||candy8.isTouching(division4)){
+  if(candy1.isTouching(division4)||candy2.isTouching(division4)||candy3.isTouching(division4)||candy4.isTouching(division4)||candy5.isTouching(division4)||candy6.isTouching(division4)||candy7.isTouching(division4)||candy8.isTouching(division4)||healthy1.isTouching(division4)||healthy2.isTouching(division4)||healthy3.isTouching(division4)||healthy4.isTouching(division4)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -656,7 +656,7 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
-  if(candy1.isTouching(division5)||candy2.isTouching(division5)||candy3.isTouching(division5)||candy4.isTouching(division5)||candy5.isTouching(division5)||candy6.isTouching(division5)||candy7.isTouching(division5)||candy8.isTouching(division5)){
+  if(candy1.isTouching(division5)||candy2.isTouching(division5)||candy3.isTouching(division5)||candy4.isTouching(division5)||candy5.isTouching(division5)||candy6.isTouching(division5)||candy7.isTouching(division5)||candy8.isTouching(division5)||healthy1.isTouching(division5)||healthy2.isTouching(division5)||healthy3.isTouching(division5)||healthy4.isTouching(division5)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -674,7 +674,7 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
-  if(candy1.isTouching(division6)||candy2.isTouching(division6)||candy3.isTouching(division6)||candy4.isTouching(division6)||candy5.isTouching(division6)||candy6.isTouching(division6)||candy7.isTouching(division6)||candy8.isTouching(division6)){
+  if(candy1.isTouching(division6)||candy2.isTouching(division6)||candy3.isTouching(division6)||candy4.isTouching(division6)||candy5.isTouching(division6)||candy6.isTouching(division6)||candy7.isTouching(division6)||candy8.isTouching(division6)||healthy1.isTouching(division6)||healthy2.isTouching(division6)||healthy3.isTouching(division6)||healthy4.isTouching(division6)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -692,7 +692,7 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
-  if(candy1.isTouching(division7)||candy2.isTouching(division7)||candy3.isTouching(division7)||candy4.isTouching(division7)||candy5.isTouching(division7)||candy6.isTouching(division7)||candy7.isTouching(division7)||candy8.isTouching(division7)){
+  if(candy1.isTouching(division7)||candy2.isTouching(division7)||candy3.isTouching(division7)||candy4.isTouching(division7)||candy5.isTouching(division7)||candy6.isTouching(division7)||candy7.isTouching(division7)||candy8.isTouching(division7)||healthy1.isTouching(division7)||healthy2.isTouching(division7)||healthy3.isTouching(division7)||healthy4.isTouching(division7)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -710,7 +710,7 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
-  if(candy1.isTouching(division8)||candy2.isTouching(division8)||candy3.isTouching(division8)||candy4.isTouching(division8)||candy5.isTouching(division8)||candy6.isTouching(division8)||candy7.isTouching(division8)||candy8.isTouching(division8)){
+  if(candy1.isTouching(division8)||candy2.isTouching(division8)||candy3.isTouching(division8)||candy4.isTouching(division8)||candy5.isTouching(division8)||candy6.isTouching(division8)||candy7.isTouching(division8)||candy8.isTouching(division8)||healthy1.isTouching(division8)||healthy2.isTouching(division8)||healthy3.isTouching(division8)||healthy4.isTouching(division8)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -728,7 +728,7 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
-  if(candy1.isTouching(division9)||candy2.isTouching(division9)||candy3.isTouching(division9)||candy4.isTouching(division9)||candy5.isTouching(division9)||candy6.isTouching(division9)||candy7.isTouching(division9)||candy8.isTouching(division9)){
+  if(candy1.isTouching(division9)||candy2.isTouching(division9)||candy3.isTouching(division9)||candy4.isTouching(division9)||candy5.isTouching(division9)||candy6.isTouching(division9)||candy7.isTouching(division9)||candy8.isTouching(division9)||healthy1.isTouching(division9)||healthy2.isTouching(division9)||healthy3.isTouching(division9)||healthy4.isTouching(division9)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -746,7 +746,7 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
-  if(candy1.isTouching(division10)||candy2.isTouching(division10)||candy3.isTouching(division10)||candy4.isTouching(division10)||candy5.isTouching(division10)||candy6.isTouching(division10)||candy7.isTouching(division10)||candy8.isTouching(division10)){
+  if(candy1.isTouching(division10)||candy2.isTouching(division10)||candy3.isTouching(division10)||candy4.isTouching(division10)||candy5.isTouching(division10)||candy6.isTouching(division10)||candy7.isTouching(division10)||candy8.isTouching(division10)||healthy1.isTouching(division10)||healthy2.isTouching(division10)||healthy3.isTouching(division10)||healthy4.isTouching(division10)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -764,63 +764,7 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
-  if(candy1.isTouching(division11)||candy2.isTouching(division11)||candy3.isTouching(division11)||candy4.isTouching(division11)||candy5.isTouching(division11)||candy6.isTouching(division11)||candy7.isTouching(division11)||candy8.isTouching(division11)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  
-  if(candy1.isTouching(division13)||candy2.isTouching(division13)||candy3.isTouching(division13)||candy4.isTouching(division13)||candy5.isTouching(division13)||candy6.isTouching(division13)||candy7.isTouching(division13)||candy8.isTouching(division13)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-
-  if(candy1.isTouching(division14)||candy2.isTouching(division14)||candy3.isTouching(division14)||candy4.isTouching(division14)||candy5.isTouching(division14)||candy6.isTouching(division14)||candy7.isTouching(division14)||candy8.isTouching(division14)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division15)||candy2.isTouching(division15)||candy3.isTouching(division15)||candy4.isTouching(division15)||candy5.isTouching(division15)||candy6.isTouching(division15)||candy7.isTouching(division15)||candy8.isTouching(division15)){
+  if(candy1.isTouching(division11)||candy2.isTouching(division11)||candy3.isTouching(division11)||candy4.isTouching(division11)||candy5.isTouching(division11)||candy6.isTouching(division11)||candy7.isTouching(division11)||candy8.isTouching(division11)||healthy1.isTouching(division11)||healthy2.isTouching(division11)||healthy3.isTouching(division11)||healthy4.isTouching(division11)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -839,277 +783,7 @@ if(player.isTouching(division1)){
     candy8.y = 450
   }
   
-  if(candy1.isTouching(division17)||candy2.isTouching(division17)||candy3.isTouching(division17)||candy4.isTouching(division17)||candy5.isTouching(division17)||candy6.isTouching(division17)||candy7.isTouching(division17)||candy8.isTouching(division17)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division18)||candy2.isTouching(division18)||candy3.isTouching(division18)||candy4.isTouching(division18)||candy5.isTouching(division18)||candy6.isTouching(division18)||candy7.isTouching(division18)||candy8.isTouching(division18)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division19)||candy2.isTouching(division19)||candy3.isTouching(division19)||candy4.isTouching(division19)||candy5.isTouching(division19)||candy6.isTouching(division19)||candy7.isTouching(division19)||candy8.isTouching(division19)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division20)||candy2.isTouching(division20)||candy3.isTouching(division20)||candy4.isTouching(division20)||candy5.isTouching(division20)||candy6.isTouching(division20)||candy7.isTouching(division20)||candy8.isTouching(division20)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division21)||candy2.isTouching(division21)||candy3.isTouching(division21)||candy4.isTouching(division21)||candy5.isTouching(division21)||candy6.isTouching(division21)||candy7.isTouching(division21)||candy8.isTouching(division21)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division22)||candy2.isTouching(division22)||candy3.isTouching(division22)||candy4.isTouching(division22)||candy5.isTouching(division22)||candy6.isTouching(division22)||candy7.isTouching(division22)||candy8.isTouching(division22)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division23)||candy2.isTouching(division23)||candy3.isTouching(division23)||candy4.isTouching(division23)||candy5.isTouching(division23)||candy6.isTouching(division23)||candy7.isTouching(division23)||candy8.isTouching(division23)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division24)||candy2.isTouching(division24)||candy3.isTouching(division24)||candy4.isTouching(division24)||candy5.isTouching(division24)||candy6.isTouching(division24)||candy7.isTouching(division24)||candy8.isTouching(division24)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division25)||candy2.isTouching(division25)||candy3.isTouching(division25)||candy4.isTouching(division25)||candy5.isTouching(division25)||candy6.isTouching(division25)||candy7.isTouching(division25)||candy8.isTouching(division25)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division26)||candy2.isTouching(division26)||candy3.isTouching(division26)||candy4.isTouching(division26)||candy5.isTouching(division26)||candy6.isTouching(division26)||candy7.isTouching(division26)||candy8.isTouching(division26)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division27)||candy2.isTouching(division27)||candy3.isTouching(division27)||candy4.isTouching(division27)||candy5.isTouching(division27)||candy6.isTouching(division27)||candy7.isTouching(division27)||candy8.isTouching(division27)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division28)||candy2.isTouching(division28)||candy3.isTouching(division28)||candy4.isTouching(division28)||candy5.isTouching(division28)||candy6.isTouching(division28)||candy7.isTouching(division28)||candy8.isTouching(division28)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division29)||candy2.isTouching(division29)||candy3.isTouching(division29)||candy4.isTouching(division29)||candy5.isTouching(division29)||candy6.isTouching(division29)||candy7.isTouching(division29)||candy8.isTouching(division29)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division30)||candy2.isTouching(division30)||candy3.isTouching(division30)||candy4.isTouching(division30)||candy5.isTouching(division30)||candy6.isTouching(division30)||candy7.isTouching(division30)||candy8.isTouching(division30)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division31)||candy2.isTouching(division31)||candy3.isTouching(division31)||candy4.isTouching(division31)||candy5.isTouching(division31)||candy6.isTouching(division31)||candy7.isTouching(division31)||candy8.isTouching(division31)){
-    candy1.x = 350
-    candy1.y = 123
-    candy2.x = 170
-    candy2.y = 300
-    candy3.x = 200
-    candy3.y = 130
-    candy4.x = 70
-    candy4.y = 120
-    candy5.x = 330
-    candy5.y = 280
-    candy6.x = 400
-    candy6.y = 340
-    candy7.x = 350
-    candy7.y = 570
-    candy8.x = 100
-    candy8.y = 450
-  }
-  if(candy1.isTouching(division32)||candy2.isTouching(division32)||candy3.isTouching(division32)||candy4.isTouching(division32)||candy5.isTouching(division32)||candy6.isTouching(division32)||candy7.isTouching(division32)||candy8.isTouching(division32)){
+  if(candy1.isTouching(division13)||candy2.isTouching(division13)||candy3.isTouching(division13)||candy4.isTouching(division13)||candy5.isTouching(division13)||candy6.isTouching(division13)||candy7.isTouching(division13)||candy8.isTouching(division13)||healthy1.isTouching(division13)||healthy2.isTouching(division13)||healthy3.isTouching(division13)||healthy4.isTouching(division13)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -1128,7 +802,314 @@ if(player.isTouching(division1)){
     candy8.y = 450
   }
 
-  if(candy1.isTouching(division33)||candy2.isTouching(division33)||candy3.isTouching(division33)||candy4.isTouching(division33)||candy5.isTouching(division33)||candy6.isTouching(division33)||candy7.isTouching(division33)||candy8.isTouching(division33)){
+  if(candy1.isTouching(division14)||candy2.isTouching(division14)||candy3.isTouching(division14)||candy4.isTouching(division14)||candy5.isTouching(division14)||candy6.isTouching(division14)||candy7.isTouching(division14)||candy8.isTouching(division14)||healthy1.isTouching(division14)||healthy2.isTouching(division14)||healthy3.isTouching(division14)||healthy4.isTouching(division14)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division15)||candy2.isTouching(division15)||candy3.isTouching(division15)||candy4.isTouching(division15)||candy5.isTouching(division15)||candy6.isTouching(division15)||candy7.isTouching(division15)||candy8.isTouching(division15)||healthy1.isTouching(division15)||healthy2.isTouching(division15)||healthy3.isTouching(division15)||healthy4.isTouching(division15)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  
+  if(candy1.isTouching(division17)||candy2.isTouching(division17)||candy3.isTouching(division17)||candy4.isTouching(division17)||candy5.isTouching(division17)||candy6.isTouching(division17)||candy7.isTouching(division17)||candy8.isTouching(division17)||healthy1.isTouching(division17)||healthy2.isTouching(division17)||healthy3.isTouching(division17)||healthy4.isTouching(division17)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division18)||candy2.isTouching(division18)||candy3.isTouching(division18)||candy4.isTouching(division18)||candy5.isTouching(division18)||candy6.isTouching(division18)||candy7.isTouching(division18)||candy8.isTouching(division18)||healthy1.isTouching(division18)||healthy2.isTouching(division18)||healthy3.isTouching(division18)||healthy4.isTouching(division18)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division19)||candy2.isTouching(division19)||candy3.isTouching(division19)||candy4.isTouching(division19)||candy5.isTouching(division19)||candy6.isTouching(division19)||candy7.isTouching(division19)||candy8.isTouching(division19)||healthy1.isTouching(division19)||healthy2.isTouching(division19)||healthy3.isTouching(division19)||healthy4.isTouching(division19)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division20)||candy2.isTouching(division20)||candy3.isTouching(division20)||candy4.isTouching(division20)||candy5.isTouching(division20)||candy6.isTouching(division20)||candy7.isTouching(division20)||candy8.isTouching(division20)||healthy1.isTouching(division20)||healthy2.isTouching(division20)||healthy3.isTouching(division20)||healthy4.isTouching(division20)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division21)||candy2.isTouching(division21)||candy3.isTouching(division21)||candy4.isTouching(division21)||candy5.isTouching(division21)||candy6.isTouching(division21)||candy7.isTouching(division21)||candy8.isTouching(division21)||healthy1.isTouching(division21)||healthy2.isTouching(division21)||healthy3.isTouching(division21)||healthy4.isTouching(division21)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division22)||candy2.isTouching(division22)||candy3.isTouching(division22)||candy4.isTouching(division22)||candy5.isTouching(division22)||candy6.isTouching(division22)||candy7.isTouching(division22)||candy8.isTouching(division22)||healthy1.isTouching(division22)||healthy2.isTouching(division22)||healthy3.isTouching(division22)||healthy4.isTouching(division22)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division23)||candy2.isTouching(division23)||candy3.isTouching(division23)||candy4.isTouching(division23)||candy5.isTouching(division23)||candy6.isTouching(division23)||candy7.isTouching(division23)||candy8.isTouching(division23)||healthy1.isTouching(division23)||healthy2.isTouching(division23)||healthy3.isTouching(division23)||healthy4.isTouching(division23)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division24)||candy2.isTouching(division24)||candy3.isTouching(division24)||candy4.isTouching(division24)||candy5.isTouching(division24)||candy6.isTouching(division24)||candy7.isTouching(division24)||candy8.isTouching(division24)||healthy1.isTouching(division24)||healthy2.isTouching(division24)||healthy3.isTouching(division24)||healthy4.isTouching(division24)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division25)||candy2.isTouching(division25)||candy3.isTouching(division25)||candy4.isTouching(division25)||candy5.isTouching(division25)||candy6.isTouching(division25)||candy7.isTouching(division25)||candy8.isTouching(division25)||healthy1.isTouching(division25)||healthy2.isTouching(division25)||healthy3.isTouching(division25)||healthy4.isTouching(division25)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division26)||candy2.isTouching(division26)||candy3.isTouching(division26)||candy4.isTouching(division26)||candy5.isTouching(division26)||candy6.isTouching(division26)||candy7.isTouching(division26)||candy8.isTouching(division26)||healthy1.isTouching(division26)||healthy2.isTouching(division26)||healthy3.isTouching(division26)||healthy4.isTouching(division26)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division27)||candy2.isTouching(division27)||candy3.isTouching(division27)||candy4.isTouching(division27)||candy5.isTouching(division27)||candy6.isTouching(division27)||candy7.isTouching(division27)||candy8.isTouching(division27)||healthy1.isTouching(division27)||healthy2.isTouching(division27)||healthy3.isTouching(division27)||healthy4.isTouching(division27)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division28)||candy2.isTouching(division28)||candy3.isTouching(division28)||candy4.isTouching(division28)||candy5.isTouching(division28)||candy6.isTouching(division28)||candy7.isTouching(division28)||candy8.isTouching(division28)||healthy1.isTouching(division28)||healthy2.isTouching(division28)||healthy3.isTouching(division28)||healthy4.isTouching(division28)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division29)||candy2.isTouching(division29)||candy3.isTouching(division29)||candy4.isTouching(division29)||candy5.isTouching(division29)||candy6.isTouching(division29)||candy7.isTouching(division29)||candy8.isTouching(division29)||healthy1.isTouching(division29)||healthy2.isTouching(division29)||healthy3.isTouching(division29)||healthy4.isTouching(division29)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division30)||candy2.isTouching(division30)||candy3.isTouching(division30)||candy4.isTouching(division30)||candy5.isTouching(division30)||candy6.isTouching(division30)||candy7.isTouching(division30)||candy8.isTouching(division30)||healthy1.isTouching(division30)||healthy2.isTouching(division30)||healthy3.isTouching(division30)||healthy4.isTouching(division30)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division31)||candy2.isTouching(division31)||candy3.isTouching(division31)||candy4.isTouching(division31)||candy5.isTouching(division31)||candy6.isTouching(division31)||candy7.isTouching(division31)||candy8.isTouching(division31)||healthy1.isTouching(division31)||healthy2.isTouching(division31)||healthy3.isTouching(division31)||healthy4.isTouching(division31)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+  if(candy1.isTouching(division32)||candy2.isTouching(division32)||candy3.isTouching(division32)||candy4.isTouching(division32)||candy5.isTouching(division32)||candy6.isTouching(division32)||candy7.isTouching(division32)||candy8.isTouching(division32)||healthy1.isTouching(division32)||healthy2.isTouching(division32)||healthy3.isTouching(division32)||healthy4.isTouching(division32)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -1147,7 +1128,7 @@ if(player.isTouching(division1)){
     candy8.y = 450
   }
 
-  if(candy1.isTouching(division34)||candy2.isTouching(division34)||candy3.isTouching(division34)||candy4.isTouching(division34)||candy5.isTouching(division34)||candy6.isTouching(division34)||candy7.isTouching(division34)||candy8.isTouching(division34)){
+  if(candy1.isTouching(division33)||candy2.isTouching(division33)||candy3.isTouching(division33)||candy4.isTouching(division33)||candy5.isTouching(division33)||candy6.isTouching(division33)||candy7.isTouching(division33)||candy8.isTouching(division33)||healthy1.isTouching(division33)||healthy2.isTouching(division33)||healthy3.isTouching(division33)||healthy4.isTouching(division33)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -1166,7 +1147,7 @@ if(player.isTouching(division1)){
     candy8.y = 450
   }
 
-  if(candy1.isTouching(division35)||candy2.isTouching(division35)||candy3.isTouching(division35)||candy4.isTouching(division35)||candy5.isTouching(division35)||candy6.isTouching(division35)||candy7.isTouching(division35)||candy8.isTouching(division35)){
+  if(candy1.isTouching(division34)||candy2.isTouching(division34)||candy3.isTouching(division34)||candy4.isTouching(division34)||candy5.isTouching(division34)||candy6.isTouching(division34)||candy7.isTouching(division34)||candy8.isTouching(division34)||healthy1.isTouching(division34)||healthy2.isTouching(division34)||healthy3.isTouching(division34)||healthy4.isTouching(division34)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -1185,7 +1166,7 @@ if(player.isTouching(division1)){
     candy8.y = 450
   }
 
-  if(candy1.isTouching(division37)||candy2.isTouching(division37)||candy3.isTouching(division37)||candy4.isTouching(division37)||candy5.isTouching(division37)||candy6.isTouching(division37)||candy7.isTouching(division37)||candy8.isTouching(division37)){
+  if(candy1.isTouching(division35)||candy2.isTouching(division35)||candy3.isTouching(division35)||candy4.isTouching(division35)||candy5.isTouching(division35)||candy6.isTouching(division35)||candy7.isTouching(division35)||candy8.isTouching(division35)||healthy1.isTouching(division35)||healthy2.isTouching(division35)||healthy3.isTouching(division35)||healthy4.isTouching(division35)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -1204,7 +1185,7 @@ if(player.isTouching(division1)){
     candy8.y = 450
   }
 
-  if(candy1.isTouching(division38)||candy2.isTouching(division3)||candy3.isTouching(division3)||candy4.isTouching(division3)||candy5.isTouching(division3)||candy6.isTouching(division3)||candy7.isTouching(division3)||candy8.isTouching(division3)){
+  if(candy1.isTouching(division37)||candy2.isTouching(division37)||candy3.isTouching(division37)||candy4.isTouching(division37)||candy5.isTouching(division37)||candy6.isTouching(division37)||candy7.isTouching(division37)||candy8.isTouching(division37)||healthy1.isTouching(division37)||healthy2.isTouching(division37)||healthy3.isTouching(division37)||healthy4.isTouching(division37)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -1223,7 +1204,7 @@ if(player.isTouching(division1)){
     candy8.y = 450
   }
 
-  if(candy1.isTouching(division39)||candy2.isTouching(division39)||candy3.isTouching(division39)||candy4.isTouching(division39)||candy5.isTouching(division39)||candy6.isTouching(division39)||candy7.isTouching(division39)||candy8.isTouching(division39)){
+  if(candy1.isTouching(division38)||candy2.isTouching(division38)||candy3.isTouching(division38)||candy4.isTouching(division38)||candy5.isTouching(division38)||candy6.isTouching(division38)||candy7.isTouching(division38)||candy8.isTouching(division38)||healthy1.isTouching(division38)||healthy2.isTouching(division38)||healthy3.isTouching(division38)||healthy4.isTouching(division38)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
@@ -1242,7 +1223,26 @@ if(player.isTouching(division1)){
     candy8.y = 450
   }
 
-  if(candy1.isTouching(division40)||candy2.isTouching(division40)||candy3.isTouching(division40)||candy4.isTouching(division40)||candy5.isTouching(division40)||candy6.isTouching(division40)||candy7.isTouching(division40)||candy8.isTouching(division40)){
+  if(candy1.isTouching(division39)||candy2.isTouching(division39)||candy3.isTouching(division39)||candy4.isTouching(division39)||candy5.isTouching(division39)||candy6.isTouching(division39)||candy7.isTouching(division39)||candy8.isTouching(division39)||healthy1.isTouching(division39)||healthy2.isTouching(division39)||healthy3.isTouching(division39)||healthy4.isTouching(division39)){
+    candy1.x = 350
+    candy1.y = 123
+    candy2.x = 170
+    candy2.y = 300
+    candy3.x = 200
+    candy3.y = 130
+    candy4.x = 70
+    candy4.y = 120
+    candy5.x = 330
+    candy5.y = 280
+    candy6.x = 400
+    candy6.y = 340
+    candy7.x = 350
+    candy7.y = 570
+    candy8.x = 100
+    candy8.y = 450
+  }
+
+  if(candy1.isTouching(division40)||candy2.isTouching(division40)||candy3.isTouching(division40)||candy4.isTouching(division40)||candy5.isTouching(division40)||candy6.isTouching(division40)||candy7.isTouching(division40)||candy8.isTouching(division40)||healthy1.isTouching(division40)||healthy2.isTouching(division40)||healthy3.isTouching(division40)||healthy4.isTouching(division40)){
     candy1.x = 350
     candy1.y = 123
     candy2.x = 170
