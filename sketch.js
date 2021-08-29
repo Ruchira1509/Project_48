@@ -237,22 +237,27 @@ function setup(){
 function draw() {
   background(79, 200, 233);
 
-  if (frameCount%100 === 0 && flagPosition === 0){
+  if (frameCount%50 === 0 && flagPosition === 0){
     candy1.x += 20;
     candy2.y -=20;
+    candy3.y -=10;
     flagPosition = 1;
   }
-  else if (frameCount%120 === 0 && flagPosition === 1){
+  else if (frameCount%55 === 0 && flagPosition === 1){
     flagPosition = 0;
-    candy1.x -= 10;
-    candy2.y +=10;
-    candy3.y -=10;
     candy4.y +=10;
     candy5.y -=10;
     candy6.y +=10;
+  }
+
+  if (frameCount%60 === 0 && flagPosition === 0){
     candy7.x +=10;
     candy8.x -=10;
     healthy1.y -=10;
+    flagPosition = 1;
+  }
+  else if (frameCount%65 === 0 && flagPosition === 1){
+    flagPosition = 0;
     healthy2.x +=10;
     healthy3.y +=10;
     healthy4.x +=10;
@@ -1260,6 +1265,405 @@ if(player.isTouching(division1)){
     candy8.x = 100
     candy8.y = 450
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  if(healthy1.isTouching(division1)||healthy2.isTouching(division1)||healthy3.isTouching(division1)||healthy4.isTouching(division1)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division2)||healthy2.isTouching(division2)||healthy3.isTouching(division2)||healthy4.isTouching(division2)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division3)||healthy2.isTouching(division3)||healthy3.isTouching(division3)||healthy4.isTouching(division3)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division4)||healthy2.isTouching(division4)||healthy3.isTouching(division4)||healthy4.isTouching(division4)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division5)||healthy2.isTouching(division5)||healthy3.isTouching(division5)||healthy4.isTouching(division5)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division6)||healthy2.isTouching(division6)||healthy3.isTouching(division6)||healthy4.isTouching(division6)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division7)||healthy2.isTouching(division7)||healthy3.isTouching(division7)||healthy4.isTouching(division7)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division8)||healthy2.isTouching(division8)||healthy3.isTouching(division8)||healthy4.isTouching(division8)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division9)||healthy2.isTouching(division9)||healthy3.isTouching(division9)||healthy4.isTouching(division9)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division10)||healthy2.isTouching(division10)||healthy3.isTouching(division10)||healthy4.isTouching(division10)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division11)||healthy2.isTouching(division11)||healthy3.isTouching(division11)||healthy4.isTouching(division11)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  
+  if(healthy1.isTouching(division13)||healthy2.isTouching(division13)||healthy3.isTouching(division13)||healthy4.isTouching(division13)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+
+  if(healthy1.isTouching(division14)||healthy2.isTouching(division14)||healthy3.isTouching(division14)||healthy4.isTouching(division14)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division15)||healthy2.isTouching(division15)||healthy3.isTouching(division15)||healthy4.isTouching(division15)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  
+  if(healthy1.isTouching(division17)||healthy2.isTouching(division17)||healthy3.isTouching(division17)||healthy4.isTouching(division17)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division18)||healthy2.isTouching(division18)||healthy3.isTouching(division18)||healthy4.isTouching(division18)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division19)||healthy2.isTouching(division19)||healthy3.isTouching(division19)||healthy4.isTouching(division19)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division20)||healthy2.isTouching(division20)||healthy3.isTouching(division20)||healthy4.isTouching(division20)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division21)||healthy2.isTouching(division21)||healthy3.isTouching(division21)||healthy4.isTouching(division21)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division22)||healthy2.isTouching(division22)||healthy3.isTouching(division22)||healthy4.isTouching(division22)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division23)||healthy2.isTouching(division23)||healthy3.isTouching(division23)||healthy4.isTouching(division23)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division24)||healthy2.isTouching(division24)||healthy3.isTouching(division24)||healthy4.isTouching(division24)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division25)||healthy2.isTouching(division25)||healthy3.isTouching(division25)||healthy4.isTouching(division25)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division26)||healthy2.isTouching(division26)||healthy3.isTouching(division26)||healthy4.isTouching(division26)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division27)||healthy2.isTouching(division27)||healthy3.isTouching(division27)||healthy4.isTouching(division27)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division28)||healthy2.isTouching(division28)||healthy3.isTouching(division28)||healthy4.isTouching(division28)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division29)||healthy2.isTouching(division29)||healthy3.isTouching(division29)||healthy4.isTouching(division29)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division30)||healthy2.isTouching(division30)|healthy3.isTouching(division30)||healthy4.isTouching(division30)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division31)||healthy2.isTouching(division31)||healthy3.isTouching(division31)||healthy4.isTouching(division31)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+  if(healthy1.isTouching(division32)||healthy2.isTouching(division32)||healthy3.isTouching(division32)||healthy4.isTouching(division32)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+
+  if(healthy1.isTouching(division33)||healthy2.isTouching(division33)||healthy3.isTouching(division33)||healthy4.isTouching(division33)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+
+  if(healthy1.isTouching(division34)||healthy2.isTouching(division34)||healthy3.isTouching(division34)||healthy4.isTouching(division34)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+
+  if(healthy1.isTouching(division35)||healthy2.isTouching(division35)||healthy3.isTouching(division35)||healthy4.isTouching(division35)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+
+  if(healthy1.isTouching(division37)||healthy2.isTouching(division37)||healthy3.isTouching(division37)||healthy4.isTouching(division37)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+
+  if(healthy1.isTouching(division38)||healthy2.isTouching(division38)||healthy3.isTouching(division38)||healthy4.isTouching(division38)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+
+  if(healthy1.isTouching(division39)||healthy2.isTouching(division39)||healthy3.isTouching(division39)||healthy4.isTouching(division39)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+
+  if(healthy1.isTouching(division40)||healthy2.isTouching(division40)||healthy3.isTouching(division40)||healthy4.isTouching(division40)){
+    healthy1.x = 220;
+    healthy1.y = 300;
+    healthy2.x = 350;
+    healthy2.y = 480;
+    healthy3.x = 410;
+    healthy3.y = 200;
+    healthy4.x = 230;
+    healthy4.y = 230;
+  }
+
+
+  
 
   
 
